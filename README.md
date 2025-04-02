@@ -23,3 +23,48 @@ Etude de marché avec Python
   J'ai segmenté un marché en groupes homogènes via des algorithmes de clustering et réduit les dimensions avec l'ACP pour simplifier l'analyse  
 Détection des faux billets avec Python
   J'ai développé et entraîné des modèles de machine learning (supervisé/non supervisé) pour prédire des catégories et classifier des données, avec validation des résultats
+📌 Projets réalisés
+📊 Analyse de vente pour un e-commerce
+🔹 Étude des tendances et identification d'une baisse de chiffre d'affaires
+🔹 Création de visualisations percutantes pour un storytelling efficace
+
+🗄 Requêtes d'une base de données avec SQL
+🔹 Conception d'une base relationnelle
+🔹 Rédaction de requêtes SQL pour répondre à des besoins métiers
+
+🏥 Étude de santé publique avec Python
+🔹 Nettoyage et visualisation de données dans un notebook
+🔹 Découverte des fondamentaux de l'analyse de données
+
+🏠 Base de données immobilière avec SQL
+🔹 Conception d'une base en 3NF
+🔹 Écriture de requêtes SQL avancées avec prise en compte du RGPD
+
+🏬 Optimisation des données d’une boutique avec Python
+🔹 Automatisation du nettoyage et détection d’anomalies
+🔹 Analyse univariée et multivariée pour extraire des insights
+
+📊 Tableau de bord Power BI – Suivi des projets
+🔹 Création d’un dashboard interactif
+🔹 Mise en avant des KPI et amélioration de l'expérience utilisateur
+
+⚖️ Analyse de l’égalité femmes/hommes en respect du RGPD
+🔹 Anonymisation des données sensibles
+🔹 Documentation pour assurer la conformité RGPD
+
+📚 Analyse de vente d’une librairie avec Python
+🔹 Étude des tendances avec des séries temporelles
+🔹 Tests statistiques pour valider des hypothèses métiers
+
+💧 Étude sur l’accès à l’eau potable
+🔹 Segmentation des données via le clustering
+🔹 Réduction de dimensions avec l’ACP
+
+📈 Étude de marché avec Python
+🔹 Segmentation en groupes homogènes
+🔹 Utilisation du clustering et de l’ACP
+
+💵 Détection des faux billets avec Python
+🔹 Développement et entraînement de modèles de Machine Learning
+🔹 Classification supervisée et non supervisée avec validation
+
